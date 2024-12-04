@@ -110,7 +110,7 @@ button {
 @media (max-width: 480px) {
 
     .blog-card__container {
-        width: 340px;
+        width: 300px;
     }
 
     h1 {
